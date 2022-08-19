@@ -124,7 +124,7 @@ margin: 4%;
     width: 90%;
     margin-bottom: ;
    box-shadow: inset 1px 1px 10px silver;
-    height: 400px;
+    height: 530px;
     border-radius: 10px;
 
 }
@@ -299,7 +299,7 @@ margin: 4%;
     .nice{
        font-size: 20px;
         float: right;
-        margin-left: -150px;
+
         margin-top: 200px;
         
     }
@@ -333,6 +333,7 @@ margin: 4%;
         margin-right: 10px;
         font-size:20px;
     }
+    
     .loca1{
         
         display: flex;
@@ -395,6 +396,7 @@ margin: 4%;
         }
         footer{
             width: 100%;
+            
         }
 
         .corps{
@@ -409,14 +411,15 @@ margin: 4%;
            height: auto;
            background-image: none;
            
+           
         }
         .text-left{
-            margin:;
-            float: none;
+            margin-left:;
+            float:;
             width: 27%;
             font-size: 10px;
             height: 27px;
-            margin-top: -4%;
+            margin-top: -1%;
             
         }
            
@@ -475,7 +478,7 @@ margin: 4%;
         width: 90%;
         margin-bottom:80px;
         box-shadow: inset 1px 1px 10px silver;
-        height: 480px;
+        height: 530px;
         border-radius: 10px;
     }
     .bloc_2-2{
@@ -501,7 +504,7 @@ margin: 4%;
        
         z-index: 1;
         position: absolute;
-        top: 1750px;
+        top: 1800px;
         left: 60px;
     }
    
@@ -588,7 +591,7 @@ margin: 4%;
     width: 90%;
     margin-bottom: 150px;
     box-shadow: inset 1px 1px 10px silver;
-    height: 480px;
+    height: 530px;
     border-radius: 10px;
 }
 .bloc_3-2{
@@ -632,7 +635,8 @@ margin: 4%;
     margin-top: -540px;
     display: grid;
     width: 100%;
-    height: auto;
+    height:auto;
+    vertical-align: 20%;
     margin-left: 0px;
     margin-right: 0px;
     z-index: 1;
@@ -645,7 +649,7 @@ margin: 4%;
    display: grid;
    grid-gap:0px;
    margin-left:15%;
-   margin-top: 60px;
+   margin-top: 28%;
    
 
 }
@@ -678,7 +682,8 @@ margin: 4%;
     .legal{
     grid-row:3/4;
     grid-column: 1/2;
-    margin-bottom: -30px;
+    margin-bottom: -100px;
+    
     }
 
 .icon1-2{
@@ -745,7 +750,7 @@ div .loca1{
       font-size: 12px;
       margin-top: 55px;
       margin: auto;
-      
+      margin-left: 13%;
       text-align: center;
   }
   .stars1-2{
@@ -755,7 +760,28 @@ div .loca1{
     
 }
 
-
+.fb{
+    border: solid 2px white;
+    height: 22px;
+    width: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+    font-size:15px;
+}
+.fbins{
+    border: solid 2px white;
+    height: 22px;
+    width: 28px;
+    border-radius: 50%;
+    margin-right: 10px;
+    font-size:20px;
+    
+    
+}
+.fbins i{
+    margin-top: -10px;
+   vertical-align: 3px;
+}
                
 
                .bloc-lass{
@@ -764,7 +790,7 @@ div .loca1{
                 height: 10px;
                 margin: auto;
                 left: 10%;
-                top: 2250px;
+                top: 2330px;
                
               
             }
