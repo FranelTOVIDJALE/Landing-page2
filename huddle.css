@@ -199,7 +199,7 @@ margin: 4%;
          border-radius: 10px;
          z-index: 2;
          left: 4%;
-         top: 2200px;
+         top:2350px;
         position: absolute;
          background-color: white;
          margin-left: 18%;
@@ -504,7 +504,7 @@ margin: 4%;
        
         z-index: 1;
         position: absolute;
-        top: 1800px;
+        top: 1880px;
         left: 60px;
     }
    
@@ -790,7 +790,7 @@ div .loca1{
                 height: 10px;
                 margin: auto;
                 left: 10%;
-                top: 2330px;
+                top: 2360px;
                
               
             }
