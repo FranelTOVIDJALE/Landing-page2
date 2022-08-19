@@ -1,0 +1,797 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+body{
+ width: 99%;
+ background-image: url("bg-hero-desktop.svg");
+ height: auto;
+ background-repeat: no-repeat;
+ 
+ 
+}
+
+.text-left{
+  width: 11.53%;
+  height: 40px;
+  float: right;
+  margin-left: 65%;
+  margin-top: 50px;
+  border-radius: 50px;
+  background-color: white;
+ color: black;
+ border: solid white;
+ font-weight: 900;
+ box-shadow: inset 1px 1px 5px silver;
+}
+.bg-hero{
+    width: 200px;
+   
+   
+}
+
+.big-bg{
+  opacity: ;
+  width: 100%;
+  height: 850px;
+  margin-left: 0px;
+  margin-right: 0px;
+  background-color:hsl(193, 100%, 96%);
+  margin-top: -800px;
+}
+
+.buton1{
+ width: 60%;
+ height: 50px;
+ border-radius: 50px;
+ background-color: hsl(322, 100%, 66%);
+ color: white;
+ border: solid white;
+ font-weight: 900;
+ margin-left: 20%;
+}
+.para1{
+font-size: 16px;
+font-weight: 700;
+opacity: 0.9;
+}
+.para2{
+    font-size: 16px;
+    font-weight: 700;
+    opacity: 0.9;
+    }
+    .para3{
+        font-size: 16px;
+        font-weight: 700;
+        opacity: 0.9;
+        }
+        .para4{
+            font-size: 16px;
+            font-weight: 700;
+            opacity: 0.9;
+            }
+.div-one{
+    display: flex;
+    margin-left: 2%;
+    
+}
+
+.bloc1{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 30px;
+    width: 95%;
+     
+}
+
+.bg-hero{
+width: 10%;
+margin: 4%;
+}
+
+ .image1-2{
+    width: 700px;
+    float: right;
+    margin-left: 140px;
+}
+
+/*__________________________________________________________________________________*/
+
+.bloc2{
+    display: flex;
+    margin-left: 5.4%;
+    margin-top: 30px;
+    width: 90%;
+    margin-bottom: ;
+   box-shadow: inset 1px 1px 10px silver;
+    height: 400px;
+    border-radius: 10px;
+
+}
+.bloc3{
+    display: flex;
+    margin-left: 5.4%;
+    margin-top: 30px;
+    width: 90%;
+    margin-bottom: ;
+   box-shadow: inset 1px 1px 10px silver;
+    height: 400px;
+    border-radius: 10px;
+
+}
+.bloc4{
+    display: flex;
+    margin-left: 5.4%;
+    margin-top: 30px;
+    width: 90%;
+    margin-bottom: ;
+   box-shadow: inset 1px 1px 10px silver;
+    height: 400px;
+    border-radius: 10px;
+
+}
+.image2-2{
+    width: 400px;
+   margin-top: 30px;
+ 
+}
+.image4-2{
+    width: 400px;
+   margin-top: 30px;
+ 
+}
+
+
+.para2{
+    font-size: 16px;
+    font-weight: 700;
+    opacity: 0.8;
+    }
+    .para3{
+        font-size: 16px;
+        font-weight: 700;
+        opacity: 0.8;
+        }
+        .para4{
+            font-size: 16px;
+            font-weight: 700;
+            opacity: 0.8;
+            }
+    .bloc_2-1{
+        margin-right: 16%;
+        margin-left: 9%;
+        margin-top:50px ;
+    }
+    .bloc_4-1{
+        margin-right: 16%;
+        margin-left: 9%;
+        margin-top:50px ;
+    }
+
+    /*__________________________________________________________________________________*/
+    
+    .bloc_3-2{
+        margin-right:;
+        margin-left: 20%;
+        margin-top:50px ;
+    }
+    .image3-1
+    {
+        width: 400px;
+       margin-top: 60px;
+       margin-left: 20%;
+    }
+
+    .buton2{
+        width: 40%;
+        height: 60px;
+        border-radius: 50px;
+        background-color: hsl(322, 100%, 66%);
+        color: white;
+        border: solid white;
+        font-weight: 900;
+        
+       }
+       .bloc-lass{
+           font-size: px;
+           width: 55%;
+           height: 200Px;
+           box-shadow: inset 1px 1px 10px silver;
+         padding-top: 100px;
+         border-radius: 10px;
+         z-index: 2;
+         left: 4%;
+         top: 2200px;
+        position: absolute;
+         background-color: white;
+         margin-left: 18%;
+       
+         
+       }
+       .title-lass{
+           margin-bottom: 50px;
+           
+       }
+       i{
+           color: red;
+       }
+ /*________________________________________footer__________________________________________*/
+
+       .lo_co_legals{
+        display: flex;
+    }
+    .gau_droit{
+        grid-auto-columns: 50% 50%;
+        margin-top: -340px;
+        display: grid;
+        width: 1350px;
+        height: 600px;
+        margin-left: -10px;
+        margin-right: -20px;
+        z-index: 1;
+        background-color: hsl(192, 100%, 9%);        
+    
+    }
+    .gauche_leg{
+         grid-row: 1/2;
+        grid-column:1/2;
+    }
+    .droit_leg{
+    grid-row: 1/2;
+        grid-column:2/3;
+        margin-top: 240px;
+    }
+    .lo_co_legals{
+        grid-template-columns: 200px 200px 200px ;
+        display: grid;
+        grid-gap: 20px;
+    
+    }
+    .locate{
+    grid-column:1/2;
+    margin-top: 30px;
+    }
+    .contac{
+    grid-column:2/3;
+    margin-top: 30px;
+    }
+    .legal{
+    grid-column:3/4;
+    }
+    div .droit_leg div p{
+        font-size: 22px;
+    }
+    div .droit_leg div h2{
+        margin-bottom: 40px;
+    }
+    
+    .icon1-2{
+        margin-bottom:-10px;
+        margin-bottom: 30px;
+        width: 200px;
+        
+        
+    }
+    .main_line1-2{
+        display: inline;
+        margin-top: 15px;
+        margin-left: 8px;
+    }
+    .stars1-2{
+        display:flex;
+        margin-top: 50px;
+        
+    }
+    .bloc1-2{
+      margin-top: 50px;
+    }
+    .gauche_leg{
+    margin-left: 10%;	
+    margin-top: 140px;
+    }
+    .reseau_social{
+        margin-right: 20px ;
+        margin-top: 20px;
+        width: 30px;
+      color: maroon;
+    }
+    p{
+        opacity: 0.7;
+    }
+    .nice{
+       font-size: 20px;
+        float: right;
+        margin-left: -150px;
+        margin-top: 200px;
+        
+    }
+    
+    footer{
+   
+        width: 100%;
+        color: white;
+        margin-bottom: -20px;
+        margin-top: 650px;
+    }
+    i{
+        color: white;
+        margin-top: 5px;
+       
+
+    }
+    .fb{
+        border: solid 2px white;
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+        margin-right: 10px;
+        font-size:20px;
+    }
+    .fbins{
+        border: solid 2px white;
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+        margin-right: 10px;
+        font-size:20px;
+    }
+    .loca1{
+        
+        display: flex;
+        margin-top: 8px;
+        font-size: 20px;
+        color:white
+    }
+    .loca2{
+        
+        display: flex;
+        margin-top: 8px;
+        font-size: 20px;
+        color:white;
+    }
+    .loca3{
+        
+        display: flex;
+        margin-top: 8px;
+        font-size: 20px;
+        color:white;
+    }
+    
+    .loca1 > i{
+        margin-right: 20px;
+        margin-top: 15px;
+        font-size:22px;
+        margin-bottom: -10px;
+
+    }
+    .loca2 > i{
+        margin-right: 20px;
+        margin-top: 20px;
+        font-size:20px;
+    }
+    .loca3 > i{
+        margin-right: 20px;
+        margin-top: 20px;
+        font-size:20px;
+    }
+
+
+    @media screen and (max-width: 768px )
+    {
+        .div-one{
+            display:inline-block;
+        }
+
+        .droit_leg > .lo_co_legals> .locate p{
+            font-size: 18px;
+        }
+        .droit_leg > .lo_co_legals> .contac p{
+            font-size: 18px;
+        }
+    .yi {
+            font-size: 8px;
+            width: 350px;
+        }
+        i{
+            font-size: 10px;
+        }
+        footer{
+            width: 100%;
+        }
+
+        .corps{
+        margin: auto;
+        }
+
+        body{
+            width: 100%;
+           margin-bottom: -10%;
+           margin-left: 0%;
+           margin-right: 0%;
+           height: auto;
+           background-image: none;
+           
+        }
+        .text-left{
+            margin:;
+            float: none;
+            width: 27%;
+            font-size: 10px;
+            height: 27px;
+            margin-top: -4%;
+            
+        }
+           
+        .bg-hero{
+            width: 27%;
+            margin: 0%;
+            margin-top: 6%;
+            margin-bottom: -6%;
+            margin-left: 2%;
+            
+         
+        }
+        .bloc1{
+            margin-top: 0px;
+            margin: auto;
+            display:inline-block;
+            width: 100%;
+        }
+        
+        .image1-2{
+            width: 80%;
+            float: none;
+            margin-left:10%;
+            margin-top: 45px;
+        }
+        .title1{
+         font-size: 16px;
+         margin-bottom: -10px;
+          text-align: center;
+        }
+       .para1{
+         font-size: 12px;
+         margin-bottom: -10px;
+         text-align: center;
+         margin: auto;
+        
+        
+       }
+      
+       .bloc_1-1{
+          margin-top: 30px;
+          width: 100%;
+         
+          
+       }
+       .bloc1-2{
+        width:60%;
+        
+        
+    }
+  .bloc2{
+        display: flex;
+        margin: auto;
+        
+        margin-top:-100px;
+        width: 90%;
+        margin-bottom:80px;
+        box-shadow: inset 1px 1px 10px silver;
+        height: 480px;
+        border-radius: 10px;
+    }
+    .bloc_2-2{
+      margin-top: 50px;
+     
+      
+      
+    }
+   .image2-2{
+        width: 230px;
+        float: none;
+        margin-left: 40px;
+       
+        z-index: 1;
+        position: absolute;
+        top: 630px;
+        left: 10px;
+    }
+    .image4-2{
+        width: 230px;
+        float: none;
+        margin-left: px;
+       
+        z-index: 1;
+        position: absolute;
+        top: 1750px;
+        left: 60px;
+    }
+   
+    .title2{
+     font-size: 22px;
+     margin-bottom:15px;
+     margin-top: 80px;
+     text-align: center;
+
+    }
+   .para2{
+     font-size: 18px;
+     margin-bottom: px;
+     margin-top: 10px;
+     width: 270px ;
+     margin-left:-7%;
+     height: 50px;
+     margin: ;
+     text-align: center;
+   }
+
+   .title3{
+    font-size: 22px;
+    margin-bottom:15px;
+    margin-top: -20px;
+    margin-left: -60%;
+   
+    text-align: center;
+
+   }
+  .para3{
+    font-size: 18px;
+    margin-bottom: px;
+    margin-top: 10px;
+    text-align: center;
+    margin-left:-30%;
+    width: 270px;
+    
+  }
+  .title4{
+    font-size: 22px;
+     margin-bottom:15px;
+     margin-top: 60px;
+     text-align: center;
+
+   }
+  .para4{
+    font-size: 18px;
+     margin-bottom: px;
+     margin-top: 10px;
+     height: 50px;
+     margin: auto;
+     width: 270px ;
+     margin-left:-7%;
+     text-align: center;
+  }
+  .bloc_4-1{
+      margin-top: 100px;
+      width: 100%;
+  }
+
+   .buton1{
+    width: 60% ;
+    height: 35px;
+   font-size: 9px;
+    
+   }
+   
+   .bloc_2-1{
+    margin-right:px;
+    margin-left: 50px;
+    margin-top:130px ;
+   
+   
+    top: 600px;
+}
+
+
+.bloc3{
+    display: flex;
+    margin:auto ;
+   
+    margin-top: px;
+    width: 90%;
+    margin-bottom: 150px;
+    box-shadow: inset 1px 1px 10px silver;
+    height: 480px;
+    border-radius: 10px;
+}
+.bloc_3-2{
+      float: none;
+      margin-left: -40%;
+      margin-top: 200px;
+     
+}
+
+.bloc4{
+       display: flex;
+        margin: auto;
+        
+        margin-top:-100px;
+        width: 90%;
+        margin-bottom:80px;
+        box-shadow: inset 1px 1px 10px silver;
+        height: 480px;
+        border-radius: 10px;
+}
+
+.bloc_4-1{
+    margin-right:px;
+    margin-left: 50px;
+    margin-top:130px ;
+    text-align-last: auto;
+   
+    top: 600px;
+}
+.image3-1{
+    width: 230px;
+    float: none;
+    margin-left:20px;
+    margin-top:50px;
+}
+
+.gau_droit{
+    grid-auto-rows: 250px 600px;
+    grid-template-columns:90%;
+  
+    margin-top: -540px;
+    display: grid;
+    width: 100%;
+    height: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    z-index: 1;
+    background-color: hsl(192, 100%, 9%);        
+
+}
+.lo_co_legals{
+
+   grid-template-rows: 100px 100px 100px;
+   display: grid;
+   grid-gap:0px;
+   margin-left:15%;
+   margin-top: 60px;
+   
+
+}
+.gauche_leg{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    width: 100%;
+    margin-top:40px;
+
+}
+.droit_leg{
+  grid-row: 2/3;
+  grid-column: 1/2;
+  margin-top: 0px;
+  
+}
+
+.locate{
+    grid-row:1/2;
+    grid-column: 1/2;
+    
+    }
+    .contac{
+    grid-row:2/3;
+    grid-column: 1/2;
+    margin-top: 40px;
+    
+   
+    }
+    .legal{
+    grid-row:3/4;
+    grid-column: 1/2;
+    margin-bottom: -30px;
+    }
+
+.icon1-2{
+    width: 100px;
+    margin-left: 5%;
+}
+.loca1 {
+    margin-right: 20px;
+    margin-top: -10px;
+    width: 300px;
+    
+}
+
+div .loca1{
+    width: 100%;
+}
+.loca2 {
+    margin-right: 20px;
+    margin-top: -8px;
+}
+.loca3 {
+    margin-right: 20px;
+    margin-top: -8px;
+    
+}
+
+
+
+  .gauche_leg i{
+     font-size: 10px;
+}
+.loca1 > i{
+    margin-right: 10px;
+    margin-top: 0px;
+    font-size: 20px;
+    
+}
+.loca2 > i{
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size:22px;
+}
+.loca3 > i{
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.loca1 > p{
+    
+    font-size:18px;
+    width: 100%;
+}   
+
+.loca2 > p{
+    
+    font-size:18px;
+}        
+
+.loca3 > p{
+    
+    font-size:18px;
+}
+  .nice{
+      font-size: 12px;
+      margin-top: 55px;
+      margin: auto;
+      
+      text-align: center;
+  }
+  .stars1-2{
+    margin-top: 60px;
+    margin-left: 45%;
+    margin-bottom: 20px;
+    
+}
+
+
+               
+
+               .bloc-lass{
+                font-size: px;
+                width: 80%;
+                height: 10px;
+                margin: auto;
+                left: 10%;
+                top: 2250px;
+               
+              
+            }
+            .buton2{
+                width: 110px;
+                height: 30px;
+                border-radius: 50px;
+                font-size: 6px;
+              
+                
+               }
+               .title-lass{
+                  font-size: 10px;
+                  margin-bottom: 10px;
+                  margin-top: -60px;
+                 
+               }
+               .big-bg{
+                width: auto;
+                margin-bottom: 80px;
+            
+              }
+              
+               
+        
+    }
+
+    
+
+    
