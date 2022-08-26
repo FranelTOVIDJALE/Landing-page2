@@ -111,6 +111,7 @@ margin: 4%;
     margin-left: 5.4%;
     margin-top: 30px;
     width: 90%;
+   
     margin-bottom: ;
    box-shadow: inset 1px 1px 10px silver;
     height: 400px;
@@ -172,6 +173,7 @@ margin: 4%;
         margin-right:;
         margin-left: 20%;
         margin-top:50px ;
+        
     }
     .image3-1
     {
@@ -199,7 +201,7 @@ margin: 4%;
          border-radius: 10px;
          z-index: 2;
          left: 4%;
-         top:2350px;
+         top:2340px;
         position: absolute;
          background-color: white;
          margin-left: 18%;
@@ -238,6 +240,7 @@ margin: 4%;
     grid-row: 1/2;
         grid-column:2/3;
         margin-top: 240px;
+        
     }
     .lo_co_legals{
         grid-template-columns: 200px 200px 200px ;
@@ -380,7 +383,7 @@ margin: 4%;
         .div-one{
             display:inline-block;
         }
-
+    
         .droit_leg > .lo_co_legals> .locate p{
             font-size: 18px;
         }
@@ -415,11 +418,14 @@ margin: 4%;
         }
         .text-left{
             margin-left:;
-            float:;
+            float:right;
             width: 27%;
             font-size: 10px;
             height: 27px;
             margin-top: -1%;
+            right:5%;
+            top: 25px;
+            position: absolute;
             
         }
            
@@ -455,6 +461,7 @@ margin: 4%;
          margin-bottom: -10px;
          text-align: center;
          margin: auto;
+         width: 95%;
         
         
        }
@@ -464,6 +471,11 @@ margin: 4%;
           width: 100%;
          
           
+       }
+       .bloc_3-2{
+        position: absolute;
+        left:10%;
+        width: 80%;
        }
        .bloc1-2{
         width:60%;
@@ -475,7 +487,7 @@ margin: 4%;
         margin: auto;
         
         margin-top:-100px;
-        width: 90%;
+        width: 93%;
         margin-bottom:80px;
         box-shadow: inset 1px 1px 10px silver;
         height: 530px;
@@ -483,9 +495,7 @@ margin: 4%;
     }
     .bloc_2-2{
       margin-top: 50px;
-     
-      
-      
+   
     }
    .image2-2{
         width: 230px;
@@ -504,7 +514,7 @@ margin: 4%;
        
         z-index: 1;
         position: absolute;
-        top: 1880px;
+        top: 1790px;
         left: 60px;
     }
    
@@ -519,9 +529,9 @@ margin: 4%;
      font-size: 18px;
      margin-bottom: px;
      margin-top: 10px;
-     width: 270px ;
-     margin-left:-7%;
-     height: 50px;
+     width:100% ;
+     margin-left:;
+     height: 30px;
      margin: ;
      text-align: center;
    }
@@ -529,8 +539,8 @@ margin: 4%;
    .title3{
     font-size: 22px;
     margin-bottom:15px;
-    margin-top: -20px;
-    margin-left: -60%;
+    margin-top: 20px;
+   
    
     text-align: center;
 
@@ -540,8 +550,9 @@ margin: 4%;
     margin-bottom: px;
     margin-top: 10px;
     text-align: center;
-    margin-left:-30%;
-    width: 270px;
+    margin:auto;
+    width: 100%;
+    height: ;
     
   }
   .title4{
@@ -557,8 +568,8 @@ margin: 4%;
      margin-top: 10px;
      height: 50px;
      margin: auto;
-     width: 270px ;
-     margin-left:-7%;
+     width:100% ;
+     margin-left:;
      text-align: center;
   }
   .bloc_4-1{
@@ -586,27 +597,34 @@ margin: 4%;
 .bloc3{
     display: flex;
     margin:auto ;
-   
+    margin-left: none;
     margin-top: px;
-    width: 90%;
+    width: 93%;
     margin-bottom: 150px;
     box-shadow: inset 1px 1px 10px silver;
     height: 530px;
     border-radius: 10px;
+    
 }
 .bloc_3-2{
       float: none;
-      margin-left: -40%;
       margin-top: 200px;
+      display: inline-block;
+      margin-left: 0%;
+    /* margin-left: -73%;
+    
+      
+      width: 90%;*/
      
 }
+
 
 .bloc4{
        display: flex;
         margin: auto;
         
         margin-top:-100px;
-        width: 90%;
+        width: 93%;
         margin-bottom:80px;
         box-shadow: inset 1px 1px 10px silver;
         height: 480px;
@@ -624,14 +642,15 @@ margin: 4%;
 .image3-1{
     width: 230px;
     float: none;
-    margin-left:20px;
+    margin-left:40px;
     margin-top:50px;
+   
 }
 
 .gau_droit{
-    grid-auto-rows: 250px 600px;
+    grid-auto-rows: 250px 440px;
     grid-template-columns:90%;
-  
+    margin-bottom: -100px;
     margin-top: -540px;
     display: grid;
     width: 100%;
@@ -664,7 +683,7 @@ margin: 4%;
   grid-row: 2/3;
   grid-column: 1/2;
   margin-top: 0px;
-  
+   
 }
 
 .locate{
@@ -682,7 +701,7 @@ margin: 4%;
     .legal{
     grid-row:3/4;
     grid-column: 1/2;
-    margin-bottom: -100px;
+   
     
     }
 
@@ -747,7 +766,7 @@ div .loca1{
     font-size:18px;
 }
   .nice{
-      font-size: 12px;
+      font-size: 10px;
       margin-top: 55px;
       margin: auto;
       margin-left: 13%;
@@ -790,9 +809,7 @@ div .loca1{
                 height: 10px;
                 margin: auto;
                 left: 10%;
-                top: 2360px;
-               
-              
+           
             }
             .buton2{
                 width: 110px;
