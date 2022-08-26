@@ -511,11 +511,12 @@ margin: 4%;
         width: 230px;
         float: none;
         margin-left: px;
-       
+        margin: auto;
         z-index: 1;
         position: absolute;
-        top: 1790px;
-        left: 60px;
+        top: 1840px;
+        left: 15%;
+        right: 20%;
     }
    
     .title2{
@@ -642,8 +643,10 @@ margin: 4%;
 .image3-1{
     width: 230px;
     float: none;
-    margin-left:40px;
+    margin-left:15%;
+    margin-right:5%;
     margin-top:50px;
+    
    
 }
 
@@ -808,6 +811,8 @@ div .loca1{
                 width: 80%;
                 height: 10px;
                 margin: auto;
+                top:2330px;
+               
                 left: 10%;
            
             }
